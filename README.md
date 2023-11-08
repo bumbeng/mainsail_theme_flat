@@ -12,7 +12,7 @@
 ![Screenshot 2023-11-09 001938](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/88d159e4-f581-4071-ace8-ea6a66387aba)
 
 # blurred main menu
-![![Screenshot 2023-11-09 002003](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/8f211133-8ed5-4c8b-b5a6-9b25efd2e5cd)
+![Screenshot 2023-11-09 002003](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/8f211133-8ed5-4c8b-b5a6-9b25efd2e5cd)
 
 
 ## How to install
