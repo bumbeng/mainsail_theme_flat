@@ -1,5 +1,7 @@
 ## Mainsail theme flat
 
+! sidebar and favicon logo are not include because thats my own logo !
+
 # dashboard
 ![Screenshot 2023-11-07 025826](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/2bd1387f-cf96-4071-b8ef-35dbc30f0903)
 
