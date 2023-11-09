@@ -14,6 +14,10 @@
 # blurred main menu
 ![Screenshot 2023-11-09 002003](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/8f211133-8ed5-4c8b-b5a6-9b25efd2e5cd)
 
+# fit webcam content
+![Screenshot 2023-11-09 133226](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/7e0f5a55-330d-401c-a777-7cdd43f96d1d)
+
+
 
 ## How to install
 - make hidden folders visible
