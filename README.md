@@ -1,5 +1,3 @@
-## Mainsail theme flat
-
 # my personal favorite custom theme
 
 
