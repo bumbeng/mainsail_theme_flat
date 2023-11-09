@@ -56,6 +56,8 @@
 .webcamImage {
     border-bottom-left-radius: 1em;
     border-bottom-right-radius: 1em;
+    border-top-left-radius: 0!important;
+    border-top-right-radius: 0!important;
 }
 .menu__content.theme--dark.menuable__content__active {
     background: rgb(34 30 37 / 90%);
@@ -179,4 +181,23 @@ button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.warning 
 }
 button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.success {
     background: rgb(50 179 64 / 70%)!important;
+}
+.v-card.v-sheet.theme--dark.panel.webcam-panel {
+    max-width: fit-content;
+    margin: auto;
+}
+.webcamFpsOutput {
+    background: rgb(37 37 37 / 90%)!important;
+    border-bottom-right-radius: 12px!important;
+    border-top-left-radius: 8px!important;
+}
+.webcamStream {
+    aspect-ratio: auto!important;
+    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 0!important;
+    border-top-right-radius: 0!important;
+}
+video {
+    border-radius: 1em;
 }
