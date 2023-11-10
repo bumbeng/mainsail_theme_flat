@@ -201,3 +201,6 @@ button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.success 
 video {
     border-radius: 1em;
 }
+.tempchart {
+    width: 96%!important;
+}
