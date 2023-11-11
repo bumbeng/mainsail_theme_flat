@@ -22,6 +22,6 @@
 
 ## How to install
 - make hidden folders visible
-- create a folder called ./theme in machine section
+- create a folder called .theme in machine section
 - copy the downloaded files into this folder
 - reload browser
