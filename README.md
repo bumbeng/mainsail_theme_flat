@@ -9,7 +9,7 @@
 # blurred macro dropdown
 ![Screenshot 2023-11-09 001801](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/3e6b6c6f-7788-4de4-81e3-62df7192b2ca)
 
-# remove ugly monotone background from 3D viewer
+# remove monotone background from 3D viewer
 ![Screenshot 2023-11-09 001938](https://github.com/bumbeng/mainsail_theme_flat/assets/111509593/88d159e4-f581-4071-ace8-ea6a66387aba)
 
 # blurred main menu
